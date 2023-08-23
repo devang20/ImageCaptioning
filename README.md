@@ -26,7 +26,7 @@ and
 ```bash
   ./get_stanford_models.sh
 ```
-make sure java is installed in the downloaded folder 
+make sure java is installed in the downloaded folder.
 
 4. Copy captions_val2017.json file from dataset folder and paste it in annotations folder copy captions_val2017_results.json file generated to results folder.
 
